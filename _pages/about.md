@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> 的撒旦撒旦撒打算</p>
-    <p>撒旦撒打算</p>
-    <p>Your City, State 12345</p>
+    <p>Nanjing University </p>
+    <p>163 Xianlin Avenue, Qixia District, Nanjing City, Jiangsu Province</p>
+    <p>Nanjing,JiangSu</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
