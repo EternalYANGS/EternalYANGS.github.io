@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-09-01 
 inline: true
 related_posts: false
 ---
 
-today is oct.19,hot hot hot hot hot hto
+In the autumn of 2023, I enrolled in the School of Journalism and Communication of Nanjing University and became a graduate student
